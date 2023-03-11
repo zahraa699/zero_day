@@ -2,5 +2,5 @@
 ```
 welcome to my first project
 ```
-**Strong** __Created by__
-*Emphasize* _elzahraa saeed_
+**Created By:** __Strong__
+*Elzahraa saeed* _emphasize_
